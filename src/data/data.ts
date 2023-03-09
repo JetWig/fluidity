@@ -27,7 +27,7 @@ export interface linkGroup {
 */
 export const links: linkGroup[] = [
   {
-    title: "Reddit",
+    title: "Links",
     links: [
       {
         label: "r/startpages",
