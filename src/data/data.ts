@@ -30,20 +30,37 @@ export const links: linkGroup[] = [
     title: "Links",
     links: [
       {
-        label: "r/startpages",
-        value: "https://www.reddit.com/r/startpages/",
+        label: "r/youtube",
+        value: "https://www.youtube.com",
       },
       {
-        label: "r/unixporn",
+        label: "r/unix",
         value: "https://www.reddit.com/r/unixporn/",
       },
       {
-        label: "r/rainmeter",
-        value: "https://www.reddit.com/r/rainmeter/",
+        label: "r/github",
+        value: "https://www.github.com",
       },
       {
-        label: "r/AnimalsBeingDerps",
-        value: "https://www.reddit.com/r/AnimalsBeingDerps/",
+        label: "r/office",
+        value: "https://www.office.com",
+      },
+    ],
+  },
+  {
+    title: "Dev",
+    links: [
+      {
+        label: "ChatGPT",
+        value: "https://chat.openai.com",
+      },
+      {
+        label: "FreeFronend",
+        value: "https://freefronend.com",
+      },
+      {
+        label: "npm",
+        value: "https://npm.com",
       },
     ],
   },
@@ -74,56 +91,7 @@ export const links: linkGroup[] = [
       },
     ],
   },
-  {
-    title: "Design",
-    links: [
-      {
-        label: "PixlrX",
-        value: "https://pixlr.com/x/",
-      },
-      {
-        label: "AI Image Enlarger",
-        value: "https://bigjpg.com/en",
-      },
-      {
-        label: "Img to Svg Converter",
-        value: "https://picsvg.com/",
-      },
-      {
-        label: "Affinity",
-        value: "https://affinity.serif.com/en-us/tutorials/designer/desktop/",
-      },
-      {
-        label: "Affinity - YT",
-        value: "https://www.youtube.com/c/AffinityRevolution/playlists",
-      },
-    ],
-  },
-  {
-    title: "Music",
-    links: [
-      {
-        label: "i wanna be a cowboy",
-        value: "https://www.youtube.com/watch?v=8zWz92f_HGs",
-      },
-      {
-        label: "let the bodies hit the floor",
-        value: "https://www.youtube.com/watch?v=b--VKaCB9u0",
-      },
-      {
-        label: "Nobody Kanna Cross It",
-        value: "https://www.youtube.com/watch?v=2wqTnwJGvtc",
-      },
-      {
-        label: "Smug Dancin",
-        value: "https://www.youtube.com/watch?v=eNZ9Od1jQ4Q",
-      },
-      {
-        label: "Utamaru - The Sanctified Mind Cover",
-        value: "https://www.youtube.com/watch?v=MHlJKLlS07U",
-      },
-    ],
-  },
+
   {
     title: "Sauce",
     links: [
